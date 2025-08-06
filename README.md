@@ -37,15 +37,6 @@ linux-basics-devops/
 
 ---
 
-### 🔹 2. File System Structure
-- `/bin`, `/etc`, `/home`, `/var`, `/usr`, etc.
-- File permissions & types
-
-📷 Diagram:  
-![Linux File System](diagrams/linux-file-structure.png)
-
----
-
 ### 🔹 3. Navigation Commands
 ```bash
 cd /path/to/dir
