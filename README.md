@@ -32,10 +32,11 @@ linux-basics-devops/
 - Utilities
 - Application Layer
 
-📷 Diagram:  
-    <p align="center">
-        <img src="diagrams/dev.gif" alt="Demo" width="1000">
-    </p>
+### 🔹 2 🎥 Output Demo
+
+<p align="center">
+  <img src="diagrams/dev.gif" alt="Demo" width="700">
+</p>
 
 ---
 
