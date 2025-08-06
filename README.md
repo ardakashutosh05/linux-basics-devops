@@ -34,7 +34,7 @@ linux-basics-devops/
 
 📷 Diagram:  
     <p align="center">
-        <img src="diagrams/devops.gif" alt="Demo" width="1000">
+        <img src="diagrams/dev.gif" alt="Demo" width="1000">
     </p>
 
 ---
