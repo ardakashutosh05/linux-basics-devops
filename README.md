@@ -33,9 +33,8 @@ linux-basics-devops/
 - Application Layer
 
 📷 Diagram:  
-   ![Linux Architecture](diagrams/devops.gif)
     <p align="center">
-        <img src="diagrams/devops.gif" alt="Demo" width="700">
+        <img src="diagrams/devops.gif" alt="Demo" width="1000">
     </p>
 
 ---
