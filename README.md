@@ -34,6 +34,9 @@ linux-basics-devops/
 
 📷 Diagram:  
    ![Linux Architecture](diagrams/devops.gif)
+    <p align="center">
+        <img src="diagrams/devops.gif" alt="Demo" width="700">
+    </p>
 
 ---
 
