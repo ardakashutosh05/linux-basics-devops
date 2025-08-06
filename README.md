@@ -35,7 +35,7 @@ linux-basics-devops/
 ### 🔹 2 🎥 Output Demo
 
 <p align="center">
-  <img src="diagrams/dev.gif" alt="Demo" width="700">
+  <img src="digrams/dev.gif" alt="Demo" width="700">
 </p>
 
 ---
