@@ -33,7 +33,7 @@ linux-basics-devops/
 - Application Layer
 
 📷 Diagram:  
-   ![Linux Architecture](https://raw.githubusercontent.com/ardakashutosh05/linux-basics-devops/main/diagrams/linux-architecture.png)
+   ![Linux Architecture](diagrams/devops.gif)
 
 ---
 
